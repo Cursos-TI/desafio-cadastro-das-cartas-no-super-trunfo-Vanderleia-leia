@@ -8,6 +8,11 @@ int main(){
  int população;
  float área;
  int pontos turísticos;
+ //entrada de dados
+ printf("Seja bem vindo ao super trunfo!\n");
+ prinff("Escolha sua carta,\n carta1 ou a carta2");
+ scanf("%d, &carta1");
+ scanf("%s, &carta2");
 
  //cadastro da primeira carta 
 
