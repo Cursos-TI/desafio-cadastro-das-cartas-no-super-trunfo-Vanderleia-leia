@@ -2,6 +2,13 @@
 
 int main(){ 
 
+ char estado;
+ char código da carta;
+ char cidade;
+ int população;
+ float área;
+ int pontos turísticos;
+
  //cadastro da primeira carta 
 
  printf("Carta1\n");
