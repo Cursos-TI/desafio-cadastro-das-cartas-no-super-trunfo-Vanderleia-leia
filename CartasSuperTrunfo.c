@@ -78,7 +78,7 @@ scanf("pontos turisticos:%s\n",turisticos1);
 
  // final do jogo super trunfo
  scanf("final do jogo\n");
- printf("\nObrigardo por jogar!\n"); 
+ printf("\nObrigardo por jogar!!\n"); 
 
  return 0; 
 }
