@@ -13,7 +13,7 @@ int turisticos1, turisticos2;
  //entrada de dados
  printf("Desafio Super Tunfo-Países\n");
  printf("\nOlá, seja bem vindo!\n");
- printf("Escolha sua carta, digite carta1 ou carta2 \n");
+ printf("Escolha sua carta, digite carta1 ou carta2: \n");
  scanf("&carta1\n");
  scanf("&carta2\n");
 
