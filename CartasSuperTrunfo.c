@@ -11,10 +11,9 @@ float PIB1, PIB2;
 int turisticos1, turisticos2;
 
  //entrada de dados
- printf("Desafio Super Tunfo- Países\n");
- printf("Olá, seja bem vindo!\n");
- printf("Escolha sua carta, carta1 ou carta2\n");
- printf("digite carta1 ou carta2 \n");
+ printf("Desafio Super Tunfo-Países\n");
+ printf("\nOlá, seja bem vindo!\n");
+ printf("Escolha sua carta, digite carta1 ou carta2 \n");
  scanf("&carta1\n");
  scanf("&carta2\n");
 
@@ -22,36 +21,36 @@ int turisticos1, turisticos2;
  //cadastro da primeira carta 
 
  printf("\nCARTA 1:\n");
- printf("Estado:A\n");
+ printf("Estado: A\n");
  scanf("%d", &estado1);
  printf("Código da carta: A01\n");
  scanf("%d", &codigo1);
- printf("Nome da cidade:São Luís\n");
+ printf("Nome da cidade: São Luís\n");
  scanf("%d", &cidade1);
- printf("População:34316000 de pessoas\n");
+ printf("População: 34316000 de pessoas\n");
  scanf("%d", &populacao1);
- printf("Área:658190,05 km²\n");
+ printf("Área: 658190,05 km²\n");
  scanf("%e", &area1);
- printf("PIB1:2009753.89 Milhões de Reais\n");
+ printf("PIB1: 2009753.89 Milhões de Reais\n");
  scanf("%2f", &PIB1); //para a primeira carta
- printf("Pontos turísticos:67 \n");
+ printf("Pontos turísticos: 67 \n");
  scanf("%d\n", &turisticos1);
 
 //Cadastro da segunda carta
  printf("\nCARTA 2:\n");
- printf("Estado:B\n");
+ printf("Estado: B\n");
  scanf("%d", &estado2);
- printf("Código da carta:B02\n" );
+ printf("Código da carta: B02\n" );
  scanf("%d", &codigo2);
- printf("Nome da cidade:Rio Branco\n");
+ printf("Nome da cidade: Rio Branco\n");
  scanf("%d", &cidade2);
  printf("População: 5168009 de pessoas\n" );
  scanf("%d", populacao2);
  printf("Área: 4329003,62 km²\n" );
  scanf("%e", &area2);
- printf("PIB2:8400432.2 Trilhões de Reais\n");
+ printf("PIB2: 8400432.2 Trilhões de Reais\n");
  scanf("%2f", &PIB2); //para a segunda carta
- printf("Pontos turísticos:43\n" );
+ printf("Pontos turísticos: 43\n" );
  scanf("%s", &turisticos2);
 
  //Se escolher a carta1 
